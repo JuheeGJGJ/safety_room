@@ -65,3 +65,6 @@ _거리는 멀어도 관심은 가깝게._
 ## 관련 자료
 * 안전보건공단 블로그 : https://blog.naver.com/koshablog/221673667417 
 * 관련 기사 : https://www.chosun.com/site/data/html_dir/2013/10/26/2013102600252.html
+
+## 위키 링크
+http://cscp2.sogang.ac.kr/CSE4186/index.php/RESTroom
